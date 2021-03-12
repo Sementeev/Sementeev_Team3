@@ -48,7 +48,7 @@ public class subversion {
 	main_panel.add(button_info);
 	button_info.addActionListener(new ActionListener() {
 		public void actionPerformed(ActionEvent arg1) {
-	JOptionPane.showMessageDialog(main_panel, "Сементеев Антон Артемович \n Ильясов Максим Рустамович \n Ибрагимов Айдар Азатович 12.03.2021 \n Сунагатов Ильгиз Рафилевич 12.03.2021\n"  + file_data);
+	JOptionPane.showMessageDialog(main_panel, "Сементеев Антон Артемович \n Ильясов Максим Рустамович 12.03.2021 \n Ибрагимов Айдар Азатович 12.03.2021 \n Сунагатов Ильгиз Рафилевич 12.03.2021\n"  + file_data);
 		}
 
 				
